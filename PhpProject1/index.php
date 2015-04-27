@@ -1,1 +1,3 @@
-OZIJEdbfoABHEFIb|SIDbib
+<?php
+    phpinfo();
+?>
